@@ -35,10 +35,11 @@
     "versionPublish": "4.5.2",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "siteUrl": "",
+    "siteUrl": "http://fastpayindia.com",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -196,7 +197,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/digital-ad-672x504.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-12-15-09.03.121-699x485.png",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
